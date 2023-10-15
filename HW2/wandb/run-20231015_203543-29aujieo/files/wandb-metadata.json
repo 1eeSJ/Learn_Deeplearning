@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2023-10-15T11:35:46.101786",
+    "startedAt": "2023-10-15T11:35:43.947012",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "HW2/hw2.ipynb",
+    "codePathLocal": null,
+    "root": "C:/Users/SeungJun/Desktop/hw_DL",
+    "git": {
+        "remote": "https://github.com/1eeSJ/Learn_Deeplearning.git",
+        "commit": "b84307e3947abe34fe9ae0875faa8e97a9488a87"
+    },
+    "email": "leelsj2007@gmail.com",
+    "host": "DESKTOP-JSERMBF",
+    "username": "SeungJun",
+    "executable": "C:\\Users\\SeungJun\\Python\\Python39\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2900.0,
+        "min": 0.0,
+        "max": 2900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2900.0,
+            "min": 0.0,
+            "max": 2900.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 953.2338829040527,
+            "used": 544.9020767211914
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 2060 with Max-Q Design",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 2060 with Max-Q Design",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.419498443603516
+    }
+}
